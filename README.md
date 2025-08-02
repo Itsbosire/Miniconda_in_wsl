@@ -1,0 +1,1 @@
+# Steps in downloading , installing and using Miniconda in WSL, windows.
